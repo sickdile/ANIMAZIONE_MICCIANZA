@@ -1,0 +1,458 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "dilet",
+    "ctime": "1768673726",
+    "version": "1.0.0",
+    "references": [],
+    "mayaVersion": "2026",
+    "mayaSceneFile": "C:/Users/dilet/Documents/Accademia/Animazione_Miccianza/ANIMAZIONE_MICCIANZA/ANIMAZIONE_MICCIANZA/mikey_1661850671103/Mikey/scenes/Donatello/scenes/Idle_Donatello_NEW_05.ma"
+  }
+,
+  "objects": {
+    "FKIndexFinger1_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKIndexFinger4_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKIndexFinger2_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKMiddleFinger4_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKThumbFinger2_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKWrist_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKThumbFinger1_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 94.90650914624989
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 3.697000388644187
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -36.91111809621355
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "Staff:stretch_middle_ctrl": {
+      "attrs": {
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        }
+      }
+    },
+    "FKMiddleFinger2_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "FKMiddleFinger1_R": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        }
+      }
+    },
+    "Fingers_R": {
+      "attrs": {
+        "middleCurl": {
+          "type": "float",
+          "value": 7.63703727722168
+        },
+        "indexCurl": {
+          "type": "float",
+          "value": 7.601630210876465
+        },
+        "thumbCurl": {
+          "type": "float",
+          "value": 7.601630210876465
+        }
+      }
+    }
+  }
+}

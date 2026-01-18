@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "dilet",
+    "ctime": "1768673789",
+    "version": "1.0.0",
+    "references": [],
+    "mayaVersion": "2026",
+    "mayaSceneFile": "C:/Users/dilet/Documents/Accademia/Animazione_Miccianza/ANIMAZIONE_MICCIANZA/ANIMAZIONE_MICCIANZA/mikey_1661850671103/Mikey/scenes/Donatello/scenes/Idle_Donatello_NEW_05.ma"
+  }
+,
+  "objects": {
+    "Fingers_R": {
+      "attrs": {
+        "middleCurl": {
+          "type": "float",
+          "value": 7.63703727722168
+        },
+        "indexCurl": {
+          "type": "float",
+          "value": 7.601630210876465
+        },
+        "thumbCurl": {
+          "type": "float",
+          "value": 7.601630210876465
+        }
+      }
+    }
+  }
+}

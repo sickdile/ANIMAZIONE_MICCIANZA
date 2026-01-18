@@ -1,0 +1,327 @@
+{
+    "../../IdleCycles": {
+        "name": "IdleCycles",
+        "path": "../../IdleCycles",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "ANIMAZIONE_MICCIANZA",
+        "modified": 1768670553.871349,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Trash": {
+        "name": "Trash",
+        "path": "../../Trash",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "ANIMAZIONE_MICCIANZA",
+        "modified": 1768672290.4154127,
+        "__class__": "studiolibrary.folderitem.FolderItem",
+        "icon": "trash.svg"
+    },
+    "../../Trash/IdleBastone_StartPose.pose": {
+        "name": "IdleBastone_StartPose.pose",
+        "path": "../../Trash/IdleBastone_StartPose.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1768671748.4430063,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Idle_Armed_02.pose": {
+        "name": "Idle_Armed_02.pose",
+        "path": "../../Trash/Idle_Armed_02.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1768672198.4379964,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Idle_Fight_Armed.pose": {
+        "name": "Idle_Fight_Armed.pose",
+        "path": "../../Trash/Idle_Fight_Armed.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1768671851.032798,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Idle_Fight_Unarmed.anim": {
+        "name": "Idle_Fight_Unarmed.anim",
+        "path": "../../Trash/Idle_Fight_Unarmed.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1768670698.9531114,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../mikey_1661850671103": {
+        "name": "mikey_1661850671103",
+        "path": "../../mikey_1661850671103",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "ANIMAZIONE_MICCIANZA",
+        "modified": 1768670566.769603,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey": {
+        "name": "Mikey",
+        "path": "../../mikey_1661850671103/Mikey",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103",
+        "category": "mikey_1661850671103",
+        "modified": 1768663943.0360851,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/movies": {
+        "name": "movies",
+        "path": "../../mikey_1661850671103/Mikey/movies",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey",
+        "category": "Mikey",
+        "modified": 1768665577.3195667,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes": {
+        "name": "scenes",
+        "path": "../../mikey_1661850671103/Mikey/scenes",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey",
+        "category": "Mikey",
+        "modified": 1768663942.6877167,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/Donatello": {
+        "name": "Donatello",
+        "path": "../../mikey_1661850671103/Mikey/scenes/Donatello",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes",
+        "category": "scenes",
+        "modified": 1768663941.1684268,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/Donatello/movies": {
+        "name": "movies",
+        "path": "../../mikey_1661850671103/Mikey/scenes/Donatello/movies",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes/Donatello",
+        "category": "Donatello",
+        "modified": 1767894334.2406125,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/Donatello/scenes": {
+        "name": "scenes",
+        "path": "../../mikey_1661850671103/Mikey/scenes/Donatello/scenes",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes/Donatello",
+        "category": "Donatello",
+        "modified": 1768672433.4451265,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/Donatello/sourceimages": {
+        "name": "sourceimages",
+        "path": "../../mikey_1661850671103/Mikey/scenes/Donatello/sourceimages",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes/Donatello",
+        "category": "Donatello",
+        "modified": 1768663942.6720147,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/Donatello/sourceimages/3dPaintTextures": {
+        "name": "3dPaintTextures",
+        "path": "../../mikey_1661850671103/Mikey/scenes/Donatello/sourceimages/3dPaintTextures",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes/Donatello/sourceimages",
+        "category": "sourceimages",
+        "modified": 1663065102.0,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scenes/TMNT_Weapons": {
+        "name": "TMNT_Weapons",
+        "path": "../../mikey_1661850671103/Mikey/scenes/TMNT_Weapons",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scenes",
+        "category": "scenes",
+        "modified": 1768663942.8458807,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scripts": {
+        "name": "scripts",
+        "path": "../../mikey_1661850671103/Mikey/scripts",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey",
+        "category": "Mikey",
+        "modified": 1768663942.877622,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/scripts/Mikey_PKR": {
+        "name": "Mikey_PKR",
+        "path": "../../mikey_1661850671103/Mikey/scripts/Mikey_PKR",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/scripts",
+        "category": "scripts",
+        "modified": 1768663943.0360851,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/sourceimages": {
+        "name": "sourceimages",
+        "path": "../../mikey_1661850671103/Mikey/sourceimages",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey",
+        "category": "Mikey",
+        "modified": 1768663943.337257,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/Mikey/sourceimages/Mikey_TXTR": {
+        "name": "Mikey_TXTR",
+        "path": "../../mikey_1661850671103/Mikey/sourceimages/Mikey_TXTR",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/Mikey/sourceimages",
+        "category": "sourceimages",
+        "modified": 1768663943.780935,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX": {
+        "name": "__MACOSX",
+        "path": "../../mikey_1661850671103/__MACOSX",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103",
+        "category": "mikey_1661850671103",
+        "modified": 1768663943.9397144,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey": {
+        "name": "Mikey",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX",
+        "category": "__MACOSX",
+        "modified": 1768663944.1610298,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey/scenes": {
+        "name": "scenes",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey/scenes",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX/Mikey",
+        "category": "Mikey",
+        "modified": 1768663944.056432,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey/scripts": {
+        "name": "scripts",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey/scripts",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX/Mikey",
+        "category": "Mikey",
+        "modified": 1768663944.106463,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey/scripts/Mikey_PKR": {
+        "name": "Mikey_PKR",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey/scripts/Mikey_PKR",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX/Mikey/scripts",
+        "category": "scripts",
+        "modified": 1768663944.1610298,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey/sourceimages": {
+        "name": "sourceimages",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey/sourceimages",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX/Mikey",
+        "category": "Mikey",
+        "modified": 1768663944.224388,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/__MACOSX/Mikey/sourceimages/Mikey_TXTR": {
+        "name": "Mikey_TXTR",
+        "path": "../../mikey_1661850671103/__MACOSX/Mikey/sourceimages/Mikey_TXTR",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103/__MACOSX/Mikey/sourceimages",
+        "category": "sourceimages",
+        "modified": 1768663944.272225,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/idleCycles": {
+        "name": "idleCycles",
+        "path": "../../mikey_1661850671103/idleCycles",
+        "type": "Folder",
+        "folder": "../../mikey_1661850671103",
+        "category": "mikey_1661850671103",
+        "modified": 1768673789.203818,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Bastone_Posa.pose": {
+        "name": "Bastone_Posa.pose",
+        "path": "../../mikey_1661850671103/idleCycles/Bastone_Posa.pose",
+        "type": ".pose",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768672416.652121,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Idle_Armed_Pose.pose": {
+        "name": "Idle_Armed_Pose.pose",
+        "path": "../../mikey_1661850671103/idleCycles/Idle_Armed_Pose.pose",
+        "type": ".pose",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768672304.1281536,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Idle_Fight_Armed.anim": {
+        "name": "Idle_Fight_Armed.anim",
+        "path": "../../mikey_1661850671103/idleCycles/Idle_Fight_Armed.anim",
+        "type": ".anim",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768670625.8165083,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Idle_Fight_Unarmed.anim": {
+        "name": "Idle_Fight_Unarmed.anim",
+        "path": "../../mikey_1661850671103/idleCycles/Idle_Fight_Unarmed.anim",
+        "type": ".anim",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768670729.6776712,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Idle_Normale.pose": {
+        "name": "Idle_Normale.pose",
+        "path": "../../mikey_1661850671103/idleCycles/Idle_Normale.pose",
+        "type": ".pose",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768754040.4802735,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Idle_Unarmed.anim": {
+        "name": "Idle_Unarmed.anim",
+        "path": "../../mikey_1661850671103/idleCycles/Idle_Unarmed.anim",
+        "type": ".anim",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768670940.9310212,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../mikey_1661850671103/idleCycles/PosaDita.pose": {
+        "name": "PosaDita.pose",
+        "path": "../../mikey_1661850671103/idleCycles/PosaDita.pose",
+        "type": ".pose",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768673789.2028155,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../mikey_1661850671103/idleCycles/Posa_Mano.pose": {
+        "name": "Posa_Mano.pose",
+        "path": "../../mikey_1661850671103/idleCycles/Posa_Mano.pose",
+        "type": ".pose",
+        "folder": "../../mikey_1661850671103/idleCycles",
+        "category": "idleCycles",
+        "modified": 1768673726.2203715,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    }
+}

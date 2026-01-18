@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "timeUnit": "ntsc",
+    "linearUnit": "cm",
+    "angularUnit": "deg",
+    "description": "",
+    "endFrame": 120,
+    "startFrame": 61,
+    "user": "dilet",
+    "ctime": "1768670729",
+    "version": "1.0.0",
+    "references": [],
+    "mayaVersion": "2026",
+    "mayaSceneFile": "C:/Users/dilet/Documents/Accademia/Animazione_Miccianza/ANIMAZIONE_MICCIANZA/ANIMAZIONE_MICCIANZA/mikey_1661850671103/Mikey/scenes/Donatello/scenes/Idle_Donatello_NEW_04.ma"
+  }
+,
+  "objects": {
+    "donatello_rig": {
+      "attrs": {
+        "visibility": {
+          "type": "bool",
+          "value": true
+        }
+      }
+    },
+    "Staff:staff_rig": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0
+        }
+      }
+    },
+    "pCylinder1": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 0.526461111986791,
+          "curve": "CURVE7"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 29.449049381548875,
+          "curve": "CURVE1"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 0.6550383265586577,
+          "curve": "CURVE2"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.7779738802408414,
+          "curve": "CURVE3"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 0.526461111986791,
+          "curve": "CURVE5"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 6.818277456795105,
+          "curve": "CURVE6"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 1.3878354882233674,
+          "curve": "CURVE4"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -40.88118758487069,
+          "curve": "CURVE8"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE9"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 17.90484984395427,
+          "curve": "CURVE10"
+        }
+      }
+    },
+    "Locator_Bastone": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 3.688070396557467
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -179.9106527740603
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 3.688070396557467
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 14.37602767961304
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 3.688070396557467
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 179.8782991304239
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -3.9836419617329724
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -179.83778901403826
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 16.389360081835537
+        }
+      }
+    },
+    "Locator_fascia": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.003029146039377346
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -0.8149102868621052
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.0010500907957806285
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -2.191519168853819
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.000597316537452763
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 16.158579036893624
+        }
+      }
+    }
+  }
+}
